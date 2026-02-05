@@ -1,34 +1,37 @@
-👋 Hi, I'm Sparshika!
+## Sparshika Ajmaan Dinesh Kumar
 
-🎓 Data Science Graduate at DePaul University  
-💼 Ex-ASE at Accenture (Dell iDRAC | Automation & Analytics)  
-📊 2.5+ years of industry experience in Data, Analytics & ML  
-🤖 Interested in Applied ML, GenAI & Data Systems  
+**Data Science Graduate at DePaul University | Data & ML Engineer**  
+Ex-ASE at Accenture (Dell iDRAC | Automation & Analytics)
 
 ---
 
-### 🔧 Skills & Tools
-- **Languages:** Python, SQL  
-- **Data & Analytics:** Power BI, Excel, Data Modeling, Warehousing  
-- **ML & AI:** Machine Learning, Applied ML, GenAI (RAG, Prompt Engineering)  
+### Profile
+Data Science graduate with 2.5+ years of industry experience in data analytics, data engineering, and applied machine learning. Experienced in building analytics solutions, ML pipelines, and cloud-based data systems through academic and professional work. Actively interested in applied ML, GenAI, and scalable data systems.
+
+---
+
+### Technical Skills
+- **Programming:** Python, SQL  
+- **Data & Analytics:** Power BI, Excel, Data Modeling, Data Warehousing  
+- **Machine Learning & AI:** Machine Learning, Applied ML, GenAI (RAG, Prompt Engineering)  
 - **Cloud & Engineering:** AWS, ETL Pipelines, Automation  
 
 ---
 
-### 📌 What you'll find here
-- End-to-end **Data Science & Machine Learning projects**  
-- **GenAI** experiments and applied ML work  
-- Professional **certifications** and academic coursework  
-- Industry-focused **analytics & data engineering** projects  
+### What You’ll Find Here
+- End-to-end data science and machine learning projects  
+- Applied ML and GenAI experiments  
+- Professional certifications and academic coursework  
+- Industry-focused analytics and data engineering work  
 
 ---
 
-### 📂 Featured Work
-- 📊 Data Science Projects (DePaul University)  
-- 🤖 GenAI Specialization Projects  
-- 📈 Power BI & Advanced Analytics Work  
+### Selected Work
+- Data Science Projects (DePaul University)  
+- GenAI Specialization Projects  
+- Power BI and Advanced Analytics Work  
 
 ---
 
-### 📫 Let's connect
-- LinkedIn: https://www.linkedin.com/in/sparshikadinesh
+### Contact
+- **LinkedIn:** https://www.linkedin.com/in/sparshikadinesh
