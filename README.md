@@ -1,16 +1,34 @@
-## Hi there 👋
+👋 Hi, I'm Sparshika!
 
-<!--
-**SparshikaDinesh/SparshikaDinesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science Graduate at DePaul University  
+💼 Ex-ASE at Accenture (Dell iDRAC | Automation & Analytics)  
+📊 2.5+ years of industry experience in Data, Analytics & ML  
+🤖 Interested in Applied ML, GenAI & Data Systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills & Tools
+- **Languages:** Python, SQL  
+- **Data & Analytics:** Power BI, Excel, Data Modeling, Warehousing  
+- **ML & AI:** Machine Learning, Applied ML, GenAI (RAG, Prompt Engineering)  
+- **Cloud & Engineering:** AWS, ETL Pipelines, Automation  
+
+---
+
+### 📌 What you'll find here
+- End-to-end **Data Science & Machine Learning projects**  
+- **GenAI** experiments and applied ML work  
+- Professional **certifications** and academic coursework  
+- Industry-focused **analytics & data engineering** projects  
+
+---
+
+### 📂 Featured Work
+- 📊 Data Science Projects (DePaul University)  
+- 🤖 GenAI Specialization Projects  
+- 📈 Power BI & Advanced Analytics Work  
+
+---
+
+### 📫 Let's connect
+- LinkedIn: https://www.linkedin.com/in/sparshikadinesh
