@@ -8,11 +8,11 @@ Former Associate Software Engineer, Accenture (Dell iDRAC — Application Develo
 ### Profile
 Data Science graduate with 2.5+ years of industry experience in data platforms. Experienced in building analytics solutions, ML pipelines, and cloud-based data systems through academic and professional work. Strong interest in data platforms, cloud technologies, analytics, applied machine learning, and GenAI.
 
-Explore my profile to see my certifications, end-to-end ML projects, healthcare analytics work, applied ML/GenAI experiments, and hands-on industry experience.
+Explore my profile to see my certifications 📜, end-to-end ML projects 🤖, healthcare analytics work 🏥, applied ML/GenAI experiments ⚡, and hands-on industry experience 💼.
 
 ---
 
-### Technical Skills
+🛠 Technical Skills
 - **Programming:** Python, SQL  
 - **Data & Analytics:** Power BI, Excel, Data Modeling, Data Warehousing  
 - **Machine Learning & AI:** Machine Learning, Applied ML, GenAI (RAG, Prompt Engineering)  
@@ -20,7 +20,7 @@ Explore my profile to see my certifications, end-to-end ML projects, healthcare 
 
 ---
 
-### What You’ll Find Here
+📌 What You’ll Find Here
 - End-to-end data science and machine learning projects  
 - Applied ML and GenAI experiments  
 - Professional certifications and academic coursework  
@@ -28,7 +28,7 @@ Explore my profile to see my certifications, end-to-end ML projects, healthcare 
 
 ---
 
-### Selected Work
+💼 Selected Work
 - Data Science Projects (DePaul University)  
 - AI & Machine Learning Specialization Projects
 - Healthcare Data Science & ML Projects
