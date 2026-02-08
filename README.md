@@ -8,6 +8,8 @@ Former Associate Software Engineer, Accenture (Dell iDRAC — Application Develo
 ### Profile
 Data Science graduate with 2.5+ years of industry experience in data platforms. Experienced in building analytics solutions, ML pipelines, and cloud-based data systems through academic and professional work. Strong interest in data platforms, cloud technologies, analytics, applied machine learning, and GenAI.
 
+Explore my profile to see my certifications, end-to-end ML projects, healthcare analytics work, applied ML/GenAI experiments, and hands-on industry experience.
+
 ---
 
 ### Technical Skills
