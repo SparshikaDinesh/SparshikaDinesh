@@ -1,7 +1,7 @@
 ## Sparshika Ajmaan Dinesh Kumar
 
-**Data Science Graduate at DePaul University | Data & ML Engineer**  
-Ex-ASE at Accenture (Dell iDRAC | Automation & Analytics)
+Data Science Graduate, DePaul University | Data & ML Engineer
+Former Associate Software Engineer, Accenture (Dell iDRAC — Application Development)
 
 ---
 
@@ -28,7 +28,8 @@ Data Science graduate with 2.5+ years of industry experience in data analytics, 
 
 ### Selected Work
 - Data Science Projects (DePaul University)  
-- GenAI Specialization Projects  
+- AI & Machine Learning Specialization Projects
+- Healthcare Data Science & ML Projects
 - Power BI and Advanced Analytics Work  
 
 ---
