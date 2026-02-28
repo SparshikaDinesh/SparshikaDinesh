@@ -1,14 +1,12 @@
 ## Sparshika Ajmaan Dinesh Kumar
 
-Data Science Graduate, DePaul University | Data & ML Engineer
-Former Associate Software Engineer, Accenture (Dell iDRAC — Application Development)
+Data Science Graduate, DePaul University | Data Engineer
+Former , Associate Software Engineer Accenture (Dell iDRAC — Data Engineer)
 
 ---
 
 ### Profile
-Data Science graduate with 2.5+ years of industry experience in data platforms. Experienced in building analytics solutions, ML pipelines, and cloud-based data systems through academic and professional work. Strong interest in data platforms, cloud technologies, analytics, applied machine learning, and GenAI.
-
-Explore my profile to see my certifications 📜, end-to-end ML projects 🤖, healthcare analytics work 🏥, applied ML/GenAI experiments ⚡, and hands-on industry experience 💼.
+I have hands-on experience building AWS + Spark ETL pipelines (S3, Glue, EMR, Lambda) for processing 1M+ records and enabling faster, real-time analytics. At Accenture, I automated Python-based BVT and regression workflows, reducing manual testing by 30% and achieving 100% build compliance.I specialize in Python, SQL, Spark, AWS, and deploying ML models (XGBoost, Random Forest, LSTM) through interactive dashboards using Streamlit and Tableau.Actively seeking Data Engineer, ML Engineer, Cloud Data Engineer, or Data Analyst roles for 2026. OPT-eligible and open to relocation.
 
 ---
 
